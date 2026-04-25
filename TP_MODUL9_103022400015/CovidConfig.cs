@@ -18,7 +18,7 @@ namespace TP_MODUL9_103022400015
         public CovidConfig()
         {
             satuan_suhu = "Celsius";
-            batas_hari_demam = 3;
+            batas_hari_demam = 14;
             pesan_ditolak = "Maaf, Anda tidak memenuhi syarat untuk masuk.";
             pesan_diterima = "Selamat, Anda memenuhi syarat untuk masuk.";
         }
