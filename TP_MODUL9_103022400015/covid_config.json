@@ -1,0 +1,6 @@
+{
+  "satuan_suhu": "Celcius",
+  "batas_hari_demam": 14,
+  "pesan_ditolak": "Maaf, Anda tidak memenuhi syarat untuk masuk.",
+  "pesan_diterima": "Selamat, Anda memenuhi syarat untuk masuk."
+}
